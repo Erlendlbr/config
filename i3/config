@@ -182,6 +182,9 @@ smart_gaps on
 
 exec compton
 
+exec_always ~/.config/i3/touch-calib.sh
+
+
 # exec wal -a 80 -i ~/wallpapers/6Px8sw4.jpg
 # exec xrandr --dpi 100
 
